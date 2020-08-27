@@ -1,7 +1,5 @@
 Written by Carl Molnar
 November 3, 2016
-CSCI 415, Assignment 2
-Saeed Salem
 
 To compile: 	$ make
 To run: 	$ ./cdpClustCoeff <number_of_blocks> <number_of_threads>
