@@ -1,5 +1,5 @@
 # Cuda-Clustering-Coefficient
-Uses a Cuda clustering coefficient to compute the center of a graph of n nodes.
+Calculates the Cuda clustering coefficient of a graph of n nodes.
 
 # Results
 Test runs for required threads and various blocks:
