@@ -18,8 +18,8 @@ Test runs for required threads and various blocks:
 |8		|1000		|0.000623	| 
 
 # Usage
-To compile: 	$ make <br/>
-To run: 	$ ./cdpClustCoeff <number_of_blocks> <number_of_threads> 
+To compile: 	`$ make` <br/>
+To run: 	    `$ ./cdpClustCoeff <number_of_blocks> <number_of_threads>`
 
 # Author
 Written by Carl Molnar <br/>
